@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+scikit-learn
+matplotlib
+seaborn
+gradio>=4.0
+streamlit>=1.30
+huggingface_hub
+Pillow
+numpy
+tqdm
+kagglehub  # Added for auto-download
+

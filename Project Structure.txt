@@ -1,0 +1,11 @@
+food10-classifier/
+├── Food-10/                  # Auto-generated dataset (train/test/class/)
+├── main.py                   # Train + organize + EDA + eval
+├── app_streamlit.py          # Dashboard (upload/predict/chart)
+├── app_gradio.py             # Alternative demo
+├── requirements.txt
+├── model.pth                 # Saved post-train
+├── class_dist.png            # EDA plots
+├── samples.png
+├── cm_epoch*.png             # Confusion matrices
+└── README.md
